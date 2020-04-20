@@ -1,5 +1,5 @@
 # Developing ETL by Python and PostgreSQL Modeling
-## If you are here to see my project, go directly to **etl.ipynb**
+## If you are here to see my project, go directly to etl.ipynb and sql_queries.py
 ******************************************************************
 
 
