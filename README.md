@@ -1,5 +1,8 @@
 # Developing ETL by Python and PostgreSQL Modeling
+## If you are here to see my project, go directly to **etl.ipynb**
 ******************************************************************
+
+
 This is originally a project hosted by Udacity and had been edited for its structure and style due to my preference.
 Working for this project mainly taught me three things :
 * Data modeling with PostgreSQL
