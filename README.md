@@ -7,7 +7,7 @@ Working for this project mainly taught me three things :
 * ETL pipeline using Python
 
 ## Context
-
+*************************************
 There are two given JSON-format meta-datasets : "song_data" and "log_data".
 "song_data" is factual information about songs whereas "log_data" is a collection of user activities in a music application.
 These two datasets seem to be well-connected and are worthy to be analyzed by smart analytics team.
@@ -68,12 +68,13 @@ And my goal is to solve this problem by creating a efficent database schema so t
 - year (INT): Year associated to start_time
 - weekday (TEXT): Name of week day associated to start_time
 
-### How it works?
+## How it works?
+***************************************************************
 Create any note and code "%run create_tables.py" and then "%run etl.py"
 Then all the data from the datasets will be stored into the data pipeline.
 
-### Contents : 
-
+## Contents : 
+***********************************************************************
 
 **data** - It is a subset of "Million Song Dataset". The original dataset is known to have 280GB memory! It consists of huge features related to songs (ex. song_name, artist, artist_id, time, duration, etc...)
 
